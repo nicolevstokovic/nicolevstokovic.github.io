@@ -198,32 +198,28 @@ with a print that once made your eye smile,
 or maybe just left a memory that lives on.
 
 Mine has a battery, yes
-(half empty or half full, depends how you look at it),
-and I’ve been waiting a few summers now for it to charge.
+(half empty or half full, depends how you look at it)
+And I’ve been waiting a few summers now for it to charge.
 
-For a long time it was Ivan’s, then mine.
-Its collar stretched long ago,
-and its colour changed.
+For a long time, it was Ivan’s, then mine.
+Its collar stretched long ago, and its colour went blind.
 
 It has been through races, beaches and seas,
 sleepless nights and slow mornings.
-Stains, still visible in strong sun.
-Small hands that stretched it,
-life going by.
+Stains that still show when the sun is high,
+small hands that stretched it, life goin’ by.
 
 My T-shirt has been pulled,
 dirtied, beaten.
 Bitten, tied, torn
-– in it we made two lives.
+– in it, two lives were born.
 
 But I always come back to it.
-Somehow I hope
-the sun will charge the battery when I fall.
+Somehow, I hope the sun will charge the battery when I fall.
 
-It used to be black,
-now it’s almost grey…
+It used to be black, now it’s almost grey…
 And with all its holes,
-all that gets sewn up…
+all the mending along the way…
 
 It stays ours.
 
@@ -239,7 +235,7 @@ Whole
 Ce l’hai anche tu una maglietta così?
 Nera, ma ora grigia,
 con una scritta che ti ha fatto sorridere gli occhi,
-o forse ti ha lasciato solo un ricordo vivo.
+o forse lasciato il ricordo che tocchi.
 
 La mia ha una batteria, sì
 (mezza scarica o mezza carica, dipende da come la guardi)
@@ -247,27 +243,27 @@ e aspetto che si carichi ormai da qualche estate.
 
 È stata a lungo di Ivan, poi mia.
 Il colletto si è sformato da tempo
-e il colore è cambiato.
+e il colore è andato via.
 
 Ha passato gare, spiagge e mari,
 notti insonni e mattine lente.
 Macchie, che al sole forte si vedono ancora.
 Piccole mani che l’hanno allargata,
-la vita che va.
+la vita che vola.
 
 La mia maglietta l’hanno tirata,
 sporcata, picchiata.
 Morsa, legata, strappata
-– con lei abbiamo creato due vite.
+– con lei il doppio d'una vita è stata creata.
 
 Ma ci torno sempre.
 In qualche modo spero
-che il sole ricarichi la batteria quando cado.
+che il sole ricarichi la batteria quando cado davvero.
 
 Un tempo era nera,
 ora è quasi grigia…
 E con tutti i suoi buchi,
-tutto ciò che si ricuce…
+tutto ciò che si ripigia…
 
 Resta nostra.
 
