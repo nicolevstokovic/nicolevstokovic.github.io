@@ -212,6 +212,9 @@ class Gradnja:
             f'<link rel="alternate" hreflang="{lg}" href="{SITE + alternates[lg]}">' for lg in JEZICI
         ) + f'<link rel="alternate" hreflang="x-default" href="{SITE + alternates["hr"]}">'
         robots = '<meta name="robots" content="noindex, nofollow">' if self.pregled else ""
+        # GoatCounter: privatna statistika posjeta, bez kolačića (samo na pravoj stranici)
+        stat = "" if self.pregled else '<script data-goatcounter="https://nicolevstokovic.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>\n'
+
         return f"""<title>{E(title)}</title>
 <meta name="description" content="{E(desc)}">
 {robots}<link rel="canonical" href="{url}">
@@ -229,7 +232,8 @@ class Gradnja:
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..500&family=Hanken+Grotesk:wght@400;500;600&display=swap">
 <link rel="stylesheet" href="{self.rel(path, '/css/stil.css')}">
-<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>"""
+<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>
+{stat}"""
 
     def header(self, lang, path, alternates, home=False):
         h = POCETNA[lang]
