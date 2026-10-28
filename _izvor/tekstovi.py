@@ -32,7 +32,7 @@ Nisu isti ljudi brali ovega lita. A ulje je bilo gorčije nego prija.
             "naslov": "Olives",
             "opis": "A sketch about one day of the olive harvest in Istria, from the morning dew to a more bitter oil.",
             "tekst": """
-The mornings are not early. You have to wait for the morning dew to dry. Still, we gather by eight at the latest. [GRE KI JE ŠERIJO] Buckets, nets, rakes. No shaker, never, it would ruin the tree!
+The mornings are not early. You have to wait for the morning dew to dry. Still, we gather by eight at the latest. The serious ones show up. Buckets, nets, rakes. No shaker, never, it would ruin the tree!
 
 Three cars, two kids, only one trailer, because the other cars have no tow hook. Same story every year. We should have waited a little longer. The yield will be poor. We are not happy.
 
@@ -52,7 +52,7 @@ They were not the same people picking this year. And the oil was more bitter tha
             "naslov": "Olive",
             "opis": "Un bozzetto su una giornata di raccolta delle olive in Istria, dalla rugiada del mattino a un olio più amaro.",
             "tekst": """
-Le mattine non sono presto. Bisogna aspettare che la rugiada del mattino si asciughi. Comunque ci troviamo entro le otto al più tardi. [GRE KI JE ŠERIJO] Secchi, reti, rastrelli. Niente scuotitore, mai, rovinerebbe l’albero!
+Le mattine non sono presto. Bisogna aspettare che la rugiada del mattino si asciughi. Comunque ci troviamo entro le otto al più tardi. Arriva chi fa sul serio. Secchi, reti, rastrelli. Niente scuotitore, mai, rovinerebbe l’albero!
 
 Tre macchine, due bambini, un solo rimorchio, perché le altre macchine non hanno il gancio. Ogni anno la stessa storia. Avremmo dovuto aspettare ancora un po’. La resa sarà scarsa. Non siamo contenti.
 
