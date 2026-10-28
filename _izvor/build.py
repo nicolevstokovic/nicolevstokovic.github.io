@@ -59,7 +59,7 @@ L = {
         "o_meni": "O meni",
         "o_naslov": "Glas koji ste možda već čuli",
         "bio": [
-            "Šest godina govorim u eter. Prije toga bila sam prevoditeljica, plesačica i moderatorica, a radio me pronašao gotovo slučajno: kroz talijanski jezik i jedan turistički prilog kojemu je trebao glas. Ostala sam.",
+            "Šest godina sam u eteru. Prije toga bila sam prevoditeljica, plesačica i moderatorica, a radio me pronašao gotovo slučajno: kroz talijanski jezik i jedan turistički prilog kojemu je trebao glas. Ostala sam.",
             "Kao voditeljica i novinarka bavim se temama za koje se rijetko nađe dovoljno vremena. Zdravljem, majčinstvom, odgojem, mentalnim zdravljem. Zanima me ono što ostaje izvan vijesti: kako se živi, kako se priča, što nas dira.",
             "Najradije slušam ljude kojima se rijetko daje riječ. U njihovim pričama naš kraj izgleda drugačije nego na razglednicama.",
             "Ovdje zapisujem ono što ne stane u radijski prilog.",
