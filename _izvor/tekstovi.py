@@ -58,21 +58,21 @@ Mrtvi zrak, kažemo. A meni se čini da je to najživlji dio emisije.
             "tekst": """
 In radio there is a term for silence that lasts too long. We call it dead air. Three seconds without a voice, without music. Enough for a listener to think something has broken. Enough for my palms to sweat, my heart to beat faster and my eyes to search in panic for the cause. Playlist, desk, buttons, technician.
 
-Where is the mistake? What did I press wrong? Is there power?
+Where is the mistake? What did I press wrong? Has the power gone out?
 
 We have learned to fear those seconds. To watch them closely. To fill them with repeated announcements, jingles, the weather forecast. And yet sometimes silence would say more than anything we have prepared.
 
 When did we last stop?
 
-I think of conversations about subjects that are anything but simple. Of a friend saying out loud, for the first time, that after giving birth she did not recognise herself. Of a father describing the waiting room of an oncology ward. Of the moment after a guest says something that cost them time… life… people.
+I think of conversations about subjects that are anything but simple. Of a friend saying out loud, for the first time, that after giving birth she did not recognize herself. Of a father describing the waiting room of an oncology ward. Of the moment after a guest says something that cost them time… life… people.
 
-That is when you don’t need the next question. You need three seconds. You need to let the sentence settle, let the listener hear it to the end, let them fall quiet for a moment too.
+That is when you don’t need the next question. You need three seconds. You need to let the sentence sink, let the listener hear it to the end, let them fall quiet for a moment, too.
 
 Not long ago I spoke with a mother about how she became a mum. She waited for one, and got two. Do we understand that? Maybe. Do we offer compassion, or a chance to find ourselves in that story? Most likely the latter.
 
 We live in a time when we don’t listen. We wait for our turn to say something. As soon as possible. As fast as possible. As loud as possible.
 
-We need silence. In a world that screams, that splits, that catches fire, that glitters with ads and pretty faces – pick me!!! – there are no people who stop to put a hand on your shoulder. And yet here we are, side by side, face to face, more of us and closer than ever before.
+We need silence. In a world that screams, that splits, that catches fire, that glitters with ads and pretty faces – pick me!!! – there are no people who stop to put a hand on your shoulder. And yet here we are, side by side, face to face, more and closer than ever before.
 
 “Listen…”, my guest said. And before she went on with her story, I heard her breathe in, the lump in her throat, the breath out. Brave, and so heavy that I felt the weight in my own lap. I would be lying if I said I carried it with her through the conversation. I carried only a small part.
 
@@ -102,7 +102,7 @@ Dead air, we call it. To me it feels like the most alive part of the show.
             "tekst": """
 In radio esiste un nome per il silenzio che dura troppo. Gli inglesi lo chiamano dead air, aria morta. Tre secondi senza voce, senza musica. Bastano perché l’ascoltatore pensi che qualcosa si sia rotto. Perché mi sudino le mani, il cuore cominci a battere più forte e gli occhi cerchino in preda al panico la causa. Playlist, mixer, tasti, tecnico.
 
-Dov’è l’errore? Cosa ho premuto per sbaglio? C’è corrente?
+Dov’è l’errore? Cosa ho premuto per sbaglio? È andata via la corrente?
 
 Abbiamo imparato a temere quei secondi. A sorvegliarli. A riempirli di annunci ripetuti, jingle, previsioni del tempo. Eppure a volte proprio il silenzio direbbe più di tutto ciò che abbiamo preparato.
 
@@ -110,7 +110,7 @@ Quand’è stata l’ultima volta che ci siamo fermati?
 
 Penso alle conversazioni su temi tutt’altro che semplici. A un’amica che per la prima volta dice ad alta voce che dopo il parto non si è riconosciuta. A un padre che descrive la sala d’attesa di un reparto di oncologia. Al momento in cui l’interlocutore pronuncia qualcosa che gli è costato tempo… vita… persone.
 
-In quel momento non serve la domanda successiva. Servono tre secondi. Bisogna lasciare che la frase si posi, che l’ascoltatore la senta fino in fondo, che anche lui taccia un po’.
+In quel momento non serve la domanda successiva. Servono tre secondi. Bisogna lasciare che la frase resti, che l’ascoltatore la senta fino in fondo, che anche lui taccia un po’.
 
 Di recente ho parlato con una madre di come è diventata mamma. Ne aspettava uno, e ne sono arrivati due. Lo capiamo? Forse. Offriamo compassione o l’occasione di ritrovare noi stessi in quella storia? Molto probabilmente la seconda.
 
@@ -118,11 +118,11 @@ Viviamo in un tempo in cui non ascoltiamo. Aspettiamo il nostro turno per dire q
 
 Serve il silenzio. In un mondo che urla, che si spacca, che prende fuoco, che brilla di pubblicità e bei volti – scegli me!!! – non ci sono persone che si fermano a metterti una mano sulla spalla. Eppure siamo qui, uno accanto all’altro, faccia a faccia, più che mai e più vicini che mai.
 
-«Ascolta…», mi ha detto la mia interlocutrice. E prima che continuasse la sua storia ho sentito un respiro, il suo nodo in gola, un sospiro. Coraggioso, e così pesante che ne ho sentito il peso anche in grembo. Mentirei se dicessi di averlo portato insieme a lei per tutta la conversazione. Io ne ho portato solo una piccola parte.
+«Ascolta…», mi ha detto la mia interlocutrice. E prima che continuasse la sua storia ho sentito un respiro, il nodo alla gola, un sospiro. Coraggioso, e così pesante che ne ho sentito il peso anche in grembo. Mentirei se dicessi di averlo portato insieme a lei per tutta la conversazione. Io ne ho portato solo una piccola parte.
 
 E davanti a me la registrazione che scorre. Una voce che resta. E una sottile linea orizzontale dopo ogni ascolta.
 
-Un respiro, il nodo in gola, un sospiro. Esattamente tre secondi. I tre secondi necessari. Per lei, per me, per te (quando un giorno sentirai questa storia).
+Un respiro, il nodo alla gola, un sospiro. Esattamente tre secondi. I tre secondi necessari. Per lei, per me, per te (quando un giorno sentirai questa storia).
 
 Allora niente si è fermato. Niente era morto. Era tutto lì. Quando inspiri e ti trascina in quella profondità, con il nodo scendi giù per la gola, dentro di te. Perché tu sia lì, perché tu senta, anche se non c’è suono. Ma l’eco è più forte che mai. Da lei, a me, a te, e da te ancora oltre.
 
@@ -132,7 +132,7 @@ Ascolta
 
 o leggi. Ho messo qui tre puntini, uno per ogni secondo.
 
-Lascia che quella storia passi, di chiunque sia la storia che stai ascoltando. Che tu la senta, che tu la ascolti. Che tu sia lì. Aspetta.
+Lascia che quella storia passi, di chiunque sia la storia che stai ascoltando. Che tu la senta, che tu l’ascolti. Che tu sia lì. Aspetta.
 
 Non il tuo turno. Non la domanda successiva. Servono tre secondi… di vita tra noi.
 
