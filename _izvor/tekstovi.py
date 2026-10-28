@@ -280,8 +280,8 @@ Intera
         "vrsta": "crtica",
         "datum": "2026-10-30",
         "hr": {
-            "slug": "prva-emisija",
-            "naslov": "Prva emisija",
+            "slug": "jutarnji-program",
+            "naslov": "Jutarnji program",
             "opis": "Crtica o jutru u pekari prije posla i teti koja zna sve vijesti prije novinara.",
             "tekst": """
 Jedem zdravo, ali svako jutro kad radim od sedam, parkiram auto na uzbrdici kraj mesnice i bacam se u lov na bijeli donut. Svatko ima svoje grijehe. Kolegama uzmem čokoladni kroasan. Nisam ih nikad pitala žele li to. Zaključila sam da je šećer bolji prije lokalnih vijesti nego na kraju dana.
@@ -298,8 +298,8 @@ Do lokalnih vijesti nema više ni donuta ni kroasana. A ja sam već čula najbol
 """,
         },
         "en": {
-            "slug": "the-first-show",
-            "naslov": "The first show",
+            "slug": "the-morning-show",
+            "naslov": "The morning show",
             "opis": "A sketch about a morning at the bakery before work, and the woman who knows the news before the journalists do.",
             "tekst": """
 I eat healthily, but every morning when I start work at seven, I park on the hill by the butcher’s and go hunting for a white doughnut. Everyone has their sins. For my colleagues I get chocolate croissants. I have never asked them if they want them. I decided sugar is better before the local news than at the end of the day.
@@ -316,8 +316,8 @@ By the local news there is not a doughnut or a croissant left. And I have alread
 """,
         },
         "it": {
-            "slug": "il-primo-programma",
-            "naslov": "Il primo programma",
+            "slug": "il-programma-del-mattino",
+            "naslov": "Il programma del mattino",
             "opis": "Un bozzetto su una mattina in panetteria prima del lavoro e sulla signora che sa le notizie prima dei giornalisti.",
             "tekst": """
 Mangio sano, ma ogni mattina quando lavoro dalle sette parcheggio in salita vicino alla macelleria e vado a caccia di un donut bianco. Ognuno ha i suoi peccati. Ai colleghi prendo un croissant al cioccolato. Non ho mai chiesto se lo vogliono. Ho deciso che lo zucchero è meglio prima del notiziario locale che alla fine della giornata.
