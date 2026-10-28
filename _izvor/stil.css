@@ -109,10 +109,11 @@ section + section, article + section { border-top: 1px solid var(--line); }
 
 .about .prose p { font-size: 1.15rem; }
 .about h2 { font-size: var(--step-2); margin: 6px 0 20px; }
-.about-grid { display: grid; grid-template-columns: minmax(0, 15rem) minmax(0, 40rem); gap: clamp(28px, 5vw, 56px); justify-content: center; align-items: start; }
+.about-grid { display: grid; grid-template-columns: minmax(0, 40rem) minmax(0, 15rem); gap: clamp(28px, 5vw, 56px); justify-content: center; align-items: start; }
 .about-text { min-width: 0; }
-.portret { margin: 0; position: sticky; top: calc(env(safe-area-inset-top, 0px) + 90px); }
-.portret img { display: block; width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 4px; filter: saturate(0.9); }
+.portret { order: 2; margin: 0 12px 12px 0; position: sticky; top: calc(env(safe-area-inset-top, 0px) + 90px); }
+.portret img { display: block; width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: cover; object-position: 50% 32%; border-radius: 50%; filter: saturate(0.9); position: relative; }
+.portret::before { content: ""; position: absolute; inset: 12px -12px -12px 12px; border: 1px solid var(--sage); border-radius: 50%; }
 
 .contact h2 { font-size: var(--step-2); margin: 6px 0 12px; }
 .contact p { color: var(--muted); margin: 0 0 10px; }
@@ -130,7 +131,7 @@ footer .wrap { padding-block: 24px; display: flex; justify-content: space-betwee
 
 @media (max-width: 720px) {
   .about-grid { grid-template-columns: 1fr; }
-  .portret { position: static; max-width: 14rem; }
+  .portret { order: -1; position: relative; max-width: 13rem; }
   .arch img, .arch::before { border-radius: 180px 180px 4px 4px; }
   nav ul { gap: 14px; }
 }

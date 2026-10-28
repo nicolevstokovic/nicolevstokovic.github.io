@@ -81,7 +81,7 @@ L = {
         "onair": "On air · Istria",
         "lede": "Radio host and journalist. Here I write what doesn’t fit into a radio segment.",
         "btn": "Read the columns",
-        "caption": "The hat guards the head, the headphones guard the story.",
+        "caption": "The hat protects your head, the headphones guard the story.",
         "foto_alt": "Nicole Vojak Štoković at the radio mixing desk, wearing a black hat",
         "portret_alt": "Nicole Vojak Štoković smiling, wearing headphones and glasses",
         "najnovija": "Latest column",
