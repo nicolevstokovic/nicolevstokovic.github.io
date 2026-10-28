@@ -45,6 +45,7 @@ L = {
         "btn": "Čitaj kolumne",
         "caption": "Šešir glavu čuva, slušalice priču.",
         "foto_alt": "Nicole Vojak Štoković za radijskim mikserom, u crnom šeširu",
+        "portret_alt": "Nicole Vojak Štoković sa slušalicama i naočalama, smiješi se",
         "najnovija": "Najnovija kolumna",
         "cijela": "Čitaj cijelu kolumnu",
         "biljeznica": "Iz bilježnice",
@@ -53,8 +54,8 @@ L = {
         "o_meni": "O meni",
         "o_naslov": "Glas koji ste možda već čuli",
         "bio": [
-            "Pet godina govorim u eter. Prije toga bila sam prevoditeljica, plesačica i moderatorica, a radio me pronašao gotovo slučajno: kroz talijanski jezik i jedan turistički prilog kojemu je trebao glas. Ostala sam.",
-            "Kao voditeljica i novinarka bavim se temama za koje se rijetko nađe dovoljno vremena. Zdravljem, majčinstvom, odgojem, mentalnim zdravljem. Zanima me ono što ostaje izvan vijesti: kako se živi s dijagnozom, što postporođajna depresija znači za cijelu obitelj, kako razgovarati s djetetom koje se boji.",
+            "Šest godina govorim u eter. Prije toga bila sam prevoditeljica, plesačica i moderatorica, a radio me pronašao gotovo slučajno: kroz talijanski jezik i jedan turistički prilog kojemu je trebao glas. Ostala sam.",
+            "Kao voditeljica i novinarka bavim se temama za koje se rijetko nađe dovoljno vremena. Zdravljem, majčinstvom, odgojem, mentalnim zdravljem. Zanima me ono što ostaje izvan vijesti: kako se živi, kako se priča, što nas dira.",
             "Najradije slušam ljude kojima se rijetko daje riječ. U njihovim pričama naš kraj izgleda drugačije nego na razglednicama.",
             "Ovdje zapisujem ono što ne stane u radijski prilog.",
         ],
@@ -82,6 +83,7 @@ L = {
         "btn": "Read the columns",
         "caption": "The hat guards the head, the headphones guard the story.",
         "foto_alt": "Nicole Vojak Štoković at the radio mixing desk, wearing a black hat",
+        "portret_alt": "Nicole Vojak Štoković smiling, wearing headphones and glasses",
         "najnovija": "Latest column",
         "cijela": "Read the full column",
         "biljeznica": "From the notebook",
@@ -90,8 +92,8 @@ L = {
         "o_meni": "About",
         "o_naslov": "A voice you may already know",
         "bio": [
-            "I have been on air for five years. Before that I was a translator, a dancer and an event host, and radio found me almost by chance: through the Italian language and a tourism segment that needed a voice. I stayed.",
-            "As a host and journalist I cover subjects that rarely get enough time. Health, motherhood, parenting, mental health. I am interested in what stays outside the news: how people live with a diagnosis, what postpartum depression means for a whole family, how to talk to a child who is afraid.",
+            "I have been on air for six years. Before that I was a translator, a dancer and an event host, and radio found me almost by chance: through the Italian language and a tourism segment that needed a voice. I stayed.",
+            "As a host and journalist I cover subjects that rarely get enough time. Health, motherhood, parenting, mental health. I am interested in what stays outside the news: how we live, how we tell our stories, what moves us.",
             "Most of all I like listening to people who are rarely given the floor. In their stories, our region looks different from the postcards.",
             "Here I write down what doesn’t fit into a radio segment.",
         ],
@@ -119,6 +121,7 @@ L = {
         "btn": "Leggi le rubriche",
         "caption": "Il cappello protegge la testa, le cuffie la storia.",
         "foto_alt": "Nicole Vojak Štoković al mixer radiofonico, con un cappello nero",
+        "portret_alt": "Nicole Vojak Štoković sorridente, con cuffie e occhiali",
         "najnovija": "Ultima rubrica",
         "cijela": "Leggi tutta la rubrica",
         "biljeznica": "Dal taccuino",
@@ -127,8 +130,8 @@ L = {
         "o_meni": "Chi sono",
         "o_naslov": "Una voce che forse avete già sentito",
         "bio": [
-            "Sono in onda da cinque anni. Prima ero traduttrice, ballerina e presentatrice, e la radio mi ha trovata quasi per caso: attraverso la lingua italiana e una rubrica turistica che aveva bisogno di una voce. Sono rimasta.",
-            "Come conduttrice e giornalista mi occupo di temi a cui raramente si dedica abbastanza tempo. Salute, maternità, educazione, salute mentale. Mi interessa ciò che resta fuori dalle notizie: come si vive con una diagnosi, cosa significa la depressione post partum per un’intera famiglia, come parlare con un bambino che ha paura.",
+            "Sono in onda da sei anni. Prima ero traduttrice, ballerina e presentatrice, e la radio mi ha trovata quasi per caso: attraverso la lingua italiana e una rubrica turistica che aveva bisogno di una voce. Sono rimasta.",
+            "Come conduttrice e giornalista mi occupo di temi a cui raramente si dedica abbastanza tempo. Salute, maternità, educazione, salute mentale. Mi interessa ciò che resta fuori dalle notizie: come si vive, come si racconta, cosa ci tocca.",
             "Più di tutto mi piace ascoltare le persone a cui raramente si dà la parola. Nelle loro storie la nostra terra appare diversa da come la mostrano le cartoline.",
             "Qui annoto ciò che non entra in un servizio radiofonico.",
         ],
@@ -369,11 +372,14 @@ try{{navigator.clipboard.writeText(el.textContent).then(function(){{c.textConten
   </section>
 
   <section id="o-meni" class="about" aria-labelledby="o-naslov">
-    <div class="wrap"><div class="col">
-      <div class="label">{E(S['o_meni'])}</div>
-      <h2 id="o-naslov">{E(S['o_naslov'])}</h2>
-      <div class="prose">{bio}</div>
-    </div></div>
+    <div class="wrap about-grid">
+      <figure class="portret"><img src="{self.rel(path, '/img/nicole-slusalice.jpg')}" alt="{E(S['portret_alt'])}" width="900" height="1200" loading="lazy"></figure>
+      <div class="about-text">
+        <div class="label">{E(S['o_meni'])}</div>
+        <h2 id="o-naslov">{E(S['o_naslov'])}</h2>
+        <div class="prose">{bio}</div>
+      </div>
+    </div>
   </section>
 
   <section id="kontakt" class="contact" aria-labelledby="c-naslov">
