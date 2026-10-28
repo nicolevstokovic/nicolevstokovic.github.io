@@ -21,7 +21,7 @@ from tekstovi import TEKSTOVI as SVI_TEKSTOVI  # noqa: E402
 PREGLED = "--pregled" in sys.argv
 TEKSTOVI = sorted([t for t in SVI_TEKSTOVI if PREGLED or date.fromisoformat(t["datum"]) <= date.today()], key=lambda t: t["datum"], reverse=True)
 
-SITE = "https://nicolevstokovic.github.io"
+SITE = "https://nicolevstokovic.com"
 IME = "Nicole Vojak Štoković"
 EMAIL = "nicolevojak@gmail.com"
 MREZE = [
