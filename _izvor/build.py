@@ -6,6 +6,7 @@ Pokretanje (iz korijena spremišta):
     python3 _izvor/build.py --pregled DIR  # gradi privatni pregled (noindex) u DIR
 """
 import html
+import re
 import json
 import os
 import shutil
@@ -156,6 +157,11 @@ L = {
 E = html.escape
 
 
+def F(x):
+    """Escape + *kurziv* -> <em>kurziv</em>."""
+    return re.sub(r"\*(.+?)\*", r"<em>\1</em>", E(x))
+
+
 def datum_txt(iso, lang):
     d = date.fromisoformat(iso)
     m = MJESECI[lang][d.month - 1]
@@ -254,9 +260,9 @@ class Gradnja:
             if b == ". . .":
                 out.append('<p class="pauza" aria-label="tri sekunde tišine">. . .</p>')
             elif poem:
-                out.append("<p>" + "".join(f'<span class="v">{E(r)}</span>' for r in b.split("\n")) + "</p>")
+                out.append("<p>" + "".join(f'<span class="v">{F(r)}</span>' for r in b.split("\n")) + "</p>")
             else:
-                out.append("<p>" + E(" ".join(b.split("\n"))) + "</p>")
+                out.append("<p>" + F(" ".join(b.split("\n"))) + "</p>")
         return "\n".join(out)
 
     def isjecak(self, t, lang, n=1):
@@ -318,7 +324,7 @@ try{{navigator.clipboard.writeText(el.textContent).then(function(){{c.textConten
         S = L[lang]
         alternates = dict(POCETNA)
         kol = next(t for t in TEKSTOVI if t["vrsta"] == "kolumna")
-        isj = "".join(f"<p>{E(' '.join(b.split()))}</p>" for b in self.isjecak(kol, lang, 2))
+        isj = "".join(f"<p>{F(' '.join(b.split()))}</p>" for b in self.isjecak(kol, lang, 2))
         tabs = f'<button type="button" id="f-sve" data-f="sve" aria-pressed="true">{E(S["sve"])}</button>' + "".join(
             f'<button type="button" id="f-{v}" data-f="{v}" aria-pressed="false">{E(S["vrste"][v][1])}</button>'
             for v in ["kolumna", "pjesma", "crtica"] if any(t["vrsta"] == v for t in TEKSTOVI)

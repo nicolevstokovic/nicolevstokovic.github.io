@@ -100,7 +100,7 @@ Dead air, we call it. To me it feels like the most alive part of the show.
             "naslov": "Tre secondi di silenzio",
             "opis": "Una rubrica sul silenzio in una conversazione radiofonica e sul perché a volte conta più della domanda successiva.",
             "tekst": """
-In radio esiste un nome per il silenzio che dura troppo. Gli inglesi lo chiamano dead air, aria morta. Tre secondi senza voce, senza musica. Bastano perché l’ascoltatore pensi che qualcosa si sia rotto. Perché mi sudino le mani, il cuore cominci a battere più forte e gli occhi cerchino in preda al panico la causa. Playlist, mixer, tasti, tecnico.
+In radio esiste un nome per il silenzio che dura troppo. Gli inglesi lo chiamano *dead air*, aria morta. Tre secondi senza voce, senza musica. Bastano perché l’ascoltatore pensi che qualcosa si sia rotto. Perché mi sudino le mani, il cuore cominci a battere più forte e gli occhi cerchino in preda al panico la causa. Playlist, mixer, tasti, tecnico.
 
 Dov’è l’errore? Cosa ho premuto per sbaglio? È andata via la corrente?
 
@@ -280,7 +280,7 @@ Intera
             "naslov": "Jutarnji program",
             "opis": "Crtica o jutru u pekari prije posla i teti koja zna sve vijesti prije novinara.",
             "tekst": """
-Jedem zdravo, ali svako jutro kad radim od sedam, parkiram auto na uzbrdici kraj mesnice i bacam se u lov na bijeli donut. Svatko ima svoje grijehe. Kolegama uzmem čokoladni kroasan. Nisam ih nikad pitala žele li to. Zaključila sam da je šećer bolji prije lokalnih vijesti nego na kraju dana.
+Jedem zdravo, ali svako jutro kad radim od sedam, parkiram auto na uzbrdici kraj mesnice i bacam se u lov na bijeli *doughnut*. Svatko ima svoje grijehe. Kolegama uzmem čokoladni kroasan. Nisam ih nikad pitala žele li to. Zaključila sam da je šećer bolji prije lokalnih vijesti nego na kraju dana.
 
 Teta za pultom zna sve vijesti prije nas. Dok mi slaže sve u jedan veliki škatroc da se ne zgnječi, ispriča mi zašto djeca danas kasnije idu u školu, koji su radovi na cesti (a nitko nije najavio!?), što se danas obilježava, zašto autobus opet kasni.
 
@@ -290,7 +290,7 @@ Teta za pultom zna sve vijesti prije nas. Dok mi slaže sve u jedan veliki škat
 
 I dok ja imam svoje dvojbe, ona mi iznova kaže da san lipa, i da danas izgledam manje umorno. „Pomalo na delu i lipi dan“, rečenica je uvijek ista. Ali uvijek jednako zagrije.
 
-Do lokalnih vijesti nema više ni donuta ni kroasana. A ja sam već čula najbolji jutarnji program.
+Do lokalnih vijesti nema više ni *doughnuta* ni kroasana. A ja sam već čula najbolji jutarnji program.
 """,
         },
         "en": {
@@ -298,15 +298,15 @@ Do lokalnih vijesti nema više ni donuta ni kroasana. A ja sam već čula najbol
             "naslov": "The morning show",
             "opis": "A sketch about a morning at the bakery before work, and the woman who knows the news before the journalists do.",
             "tekst": """
-I eat healthily, but every morning when I start work at seven, I park on the hill by the butcher’s and go hunting for a white doughnut. Everyone has their sins. For my colleagues I get chocolate croissants. I have never asked them if they want them. I decided sugar is better before the local news than at the end of the day.
+I eat healthily, but every morning when I start work at seven, I park on the hill by the butcher’s and go hunting for a white doughnut. Everyone has their sins. For my colleagues I get chocolate croissants. I have never asked them whether they wanted them. I decided sugar is better before the local news than at the end of the day.
 
-The woman behind the counter knows all the news before we do. While she packs everything into one big box so nothing gets squashed, she tells me why children start school later these days, which roadworks are on (and nobody announced them!?), what is being marked today, why the bus is late again.
+The woman behind the counter knows all the news before we do. While she packs everything into one big paper bag, so nothing gets squashed, she tells me why children start school later these days, which roadworks are on (and nobody announced them!?), what is being marked today, why the bus is late again.
 
 “Put that on the air,” she says, and winks.
 
-I often wonder about the things I supposedly know. Have I missed the day? Should I be out in the field, not at her counter?
+I often wonder about the things I supposedly know. Have I missed the day? Should I be out in the field rather than behind her counter?
 
-And while I sit with my doubts, she tells me once again that I look lovely, and less tired today. “Pomalo na delu i lipi dan” – take it easy at work, and have a lovely day. The sentence is always the same. But it always warms me just as much.
+And while I sit with my doubts, she tells me once again that I look lovely, and less tired today. “*Pomalo na delu i lipi dan*” – take it easy at work, and have a lovely day. The sentence is always the same. But it always warms me just as much.
 
 By the local news there is not a doughnut or a croissant left. And I have already heard the best morning show.
 """,
@@ -316,17 +316,17 @@ By the local news there is not a doughnut or a croissant left. And I have alread
             "naslov": "Il programma del mattino",
             "opis": "Un bozzetto su una mattina in panetteria prima del lavoro e sulla signora che sa le notizie prima dei giornalisti.",
             "tekst": """
-Mangio sano, ma ogni mattina quando lavoro dalle sette parcheggio in salita vicino alla macelleria e vado a caccia di un donut bianco. Ognuno ha i suoi peccati. Ai colleghi prendo un croissant al cioccolato. Non ho mai chiesto se lo vogliono. Ho deciso che lo zucchero è meglio prima del notiziario locale che alla fine della giornata.
+Mangio sano, ma ogni mattina quando lavoro dalle sette, parcheggio in salita vicino alla macelleria e vado a caccia di un *doughnut* bianco. Ognuno ha i suoi peccati. Ai colleghi prendo croissant al cioccolato. Non ho mai chiesto se li vogliano. Ho deciso che lo zucchero è meglio prima del notiziario locale che alla fine della giornata.
 
-La signora al banco sa tutte le notizie prima di noi. Mentre mi sistema tutto in una grande scatola perché non si schiacci, mi racconta perché oggi i bambini vanno a scuola più tardi, quali lavori ci sono sulla strada (e nessuno li ha annunciati!?), che ricorrenza è oggi, perché l’autobus è di nuovo in ritardo.
+La signora al banco sa tutte le notizie prima di noi. Mentre mi sistema tutto in un grande cartoccio perché non si schiacci, mi racconta perché oggi i bambini vanno a scuola più tardi, quali lavori ci sono sulla strada (e nessuno li ha annunciati!?), che ricorrenza è oggi, perché l’autobus è di nuovo in ritardo.
 
-«Questo lo mandi in onda», dice strizzando l’occhio.
+«Questo dillo in onda», dice e mi fa l’occhiolino.
 
 Spesso mi interrogo sulle cose che presumibilmente so. Ho sbagliato giornata? Dovrei essere sul campo, e non al suo banco?
 
-E mentre io ho i miei dubbi, lei mi ripete che sono bella e che oggi sembro meno stanca. «Pomalo na delu i lipi dan» – piano col lavoro, e buona giornata. La frase è sempre la stessa. Ma scalda ogni volta allo stesso modo.
+E mentre io ho i miei dubbi, lei mi ripete che sono bella e che oggi sembro meno stanca. «*Pomalo na delu i lipi dan*» – piano col lavoro, e buona giornata. La frase è sempre la stessa. Ma scalda ogni volta allo stesso modo.
 
-All’ora del notiziario locale non resta più né un donut né un croissant. E io ho già sentito il miglior programma del mattino.
+All’ora del notiziario locale non resta più né un *doughnut* né un croissant. E io ho già sentito il miglior programma del mattino.
 """,
         },
     },
