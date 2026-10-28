@@ -1,0 +1,130 @@
+/* Nicole Vojak Štoković – stil stranice.
+   Raspored: stranica za pisanje. Mirna naslovnica s jednom fotografijom u luku, zatim kolumne u jednom stupcu (~40rem). */
+:root {
+  --bg: #eef2ec;          /* blijeda kadulja */
+  --surface: #f6f8f3;
+  --ink: #1f2a24;         /* tamna borova tinta */
+  --muted: #5d6b62;
+  --line: #d2dbd1;
+  --sage: #8fae96;        /* pastelno zelena */
+  --sage-deep: #3f6a4c;   /* poveznice */
+  --ochre: #a9792b;       /* topli naglasak, štedljivo */
+  --onair: #c2452d;
+  --display: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --body: "Hanken Grotesk", "Segoe UI", system-ui, sans-serif;
+  --step--1: 0.84rem; --step-0: 1.02rem; --step-1: 1.28rem; --step-2: 1.7rem; --step-3: 2.3rem; --step-4: clamp(2.5rem, 6vw, 4rem);
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #141a16; --surface: #1a221d; --ink: #e5ebe3; --muted: #a3b0a6; --line: #2f3b33;
+    --sage: #8fb397; --sage-deep: #a9cdb0; --ochre: #d8a752; --onair: #ef6a4f; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #141a16; --surface: #1a221d; --ink: #e5ebe3; --muted: #a3b0a6; --line: #2f3b33;
+  --sage: #8fb397; --sage-deep: #a9cdb0; --ochre: #d8a752; --onair: #ef6a4f; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { animation: none !important; transition: none !important; } }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--body); font-size: var(--step-0); line-height: 1.65; }
+img { max-width: 100%; }
+[hidden] { display: none !important; }
+a { color: var(--sage-deep); text-underline-offset: 3px; text-decoration-thickness: 1px; }
+a:hover { color: var(--ochre); }
+:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; border-radius: 2px; }
+.wrap { max-width: 980px; margin: 0 auto; padding-left: max(20px, env(safe-area-inset-left, 0px)); padding-right: max(20px, env(safe-area-inset-right, 0px)); }
+.col { max-width: 40rem; margin: 0 auto; }
+h1, h2, h3 { font-family: var(--display); font-weight: 400; text-wrap: balance; margin: 0; line-height: 1.12; }
+h2 a { color: inherit; text-decoration: none; }
+h2 a:hover { color: var(--sage-deep); }
+.label { font-size: var(--step--1); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); font-weight: 500; }
+.preview-note { background: var(--surface); border-bottom: 1px solid var(--line); font-size: var(--step--1); color: var(--ochre); font-weight: 600; }
+.preview-note .wrap { padding-block: 8px; }
+
+header.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: color-mix(in srgb, var(--bg) 90%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+header.top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 12px 20px; padding-block: 14px; flex-wrap: wrap; }
+.mark { font-family: var(--display); font-size: var(--step-1); text-decoration: none; color: var(--ink); white-space: nowrap; }
+.mark em { color: var(--sage-deep); }
+.nav-side { display: flex; align-items: center; gap: 12px 26px; flex-wrap: wrap; }
+nav ul { list-style: none; display: flex; gap: 20px; margin: 0; padding: 0; flex-wrap: wrap; }
+nav a { text-decoration: none; color: var(--muted); font-size: var(--step--1); letter-spacing: 0.08em; text-transform: uppercase; }
+nav a:hover { color: var(--ink); }
+.langs { display: flex; gap: 2px; border: 1px solid var(--line); border-radius: 999px; padding: 2px; }
+.langs a { font-size: 0.74rem; letter-spacing: 0.08em; font-weight: 600; color: var(--muted); padding: 4px 10px; border-radius: 999px; text-decoration: none; }
+.langs a[aria-current="true"] { background: var(--sage-deep); color: var(--bg); }
+
+/* naslovnica */
+.hero .wrap { display: grid; grid-template-columns: 1fr; gap: clamp(32px, 5vw, 52px); justify-items: center; padding-block: clamp(36px, 6vw, 72px); }
+.hero .intro { min-width: 0; width: 100%; max-width: 40rem; order: 2; }
+.onair { display: inline-flex; align-items: center; gap: 10px; margin-bottom: 20px; }
+.onair i { width: 8px; height: 8px; border-radius: 50%; background: var(--onair); box-shadow: 0 0 0 4px color-mix(in srgb, var(--onair) 20%, transparent); animation: pulse 2.6s ease-in-out infinite; }
+@keyframes pulse { 50% { box-shadow: 0 0 0 7px color-mix(in srgb, var(--onair) 6%, transparent); } }
+.hero h1 { font-size: var(--step-4); letter-spacing: -0.01em; }
+.hero h1 span { display: block; font-style: italic; color: var(--sage-deep); }
+.hero .lede { font-family: var(--display); font-size: var(--step-1); line-height: 1.5; color: var(--muted); max-width: 30rem; margin: 22px 0 28px; }
+.btn { display: inline-block; padding: 10px 20px; border-radius: 999px; text-decoration: none; font-weight: 500; font-size: var(--step--1); letter-spacing: 0.04em; border: 1px solid var(--sage-deep); background: var(--sage-deep); color: var(--bg); }
+.btn:hover { background: var(--ochre); border-color: var(--ochre); color: var(--bg); }
+.arch { margin: 0; width: calc(100% - 12px); max-width: 27rem; justify-self: center; position: relative; min-width: 0; order: 1; }
+.arch img { display: block; width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 220px 220px 4px 4px; filter: saturate(0.88); }
+.arch::before { content: ""; position: absolute; inset: -12px -12px 12px 12px; border: 1px solid var(--sage); border-radius: 220px 220px 4px 4px; z-index: -1; }
+.arch figcaption { font-size: var(--step--1); color: var(--muted); margin-top: 12px; font-style: italic; font-family: var(--display); }
+
+section, article.clanak { padding-block: clamp(48px, 7vw, 84px); }
+section + section, article + section { border-top: 1px solid var(--line); }
+
+.kicker { display: flex; gap: 14px; align-items: baseline; flex-wrap: wrap; margin-bottom: 14px; }
+.kicker .kind { color: var(--ochre); }
+.featured h2 { font-size: var(--step-3); margin-bottom: 22px; }
+.prose { font-family: var(--display); font-size: 1.2rem; line-height: 1.75; }
+.prose p { margin: 0 0 1.05em; }
+.featured .prose > p:first-of-type::first-letter, .clanak .prose:not(.poem) > p:first-of-type::first-letter { float: left; font-size: 3.6em; line-height: 0.85; padding: 6px 10px 0 0; color: var(--sage-deep); }
+.prose .pauza { text-align: center; letter-spacing: 0.6em; color: var(--ochre); font-size: 1.6rem; margin: 1.4em 0; }
+.more-link { display: inline-block; margin-top: 6px; font-weight: 500; font-size: var(--step--1); letter-spacing: 0.04em; }
+
+/* popis tekstova */
+.arch-head { display: flex; justify-content: space-between; align-items: end; gap: 16px; flex-wrap: wrap; margin-bottom: 26px; }
+.arch-head h2, .jos h2 { font-size: var(--step-2); }
+.jos h2 { margin-bottom: 20px; }
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+.tabs button { font: inherit; font-size: var(--step--1); letter-spacing: 0.05em; background: none; border: 1px solid var(--line); color: var(--muted); padding: 6px 15px; border-radius: 999px; cursor: pointer; }
+.tabs button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.lista { list-style: none; margin: 0; padding: 0; }
+.lista li { border-top: 1px solid var(--line); }
+.lista li:last-child { border-bottom: 1px solid var(--line); }
+.lista a { display: grid; gap: 4px; padding-block: 20px; text-decoration: none; color: var(--ink); }
+.lista a:hover .ttl { color: var(--sage-deep); }
+.lista .kind { font-size: var(--step--1); color: var(--ochre); letter-spacing: 0.1em; text-transform: uppercase; }
+.lista .ttl { font-family: var(--display); font-size: var(--step-1); line-height: 1.25; }
+.lista .excerpt { color: var(--muted); }
+
+/* stranica teksta */
+.clanak h1 { font-size: var(--step-3); margin-bottom: 28px; }
+.back { display: inline-block; font-size: var(--step--1); letter-spacing: 0.04em; text-decoration: none; margin-bottom: 28px; }
+.poem p { margin-bottom: 1.4em; }
+.poem .v { display: block; padding-left: 1.2em; text-indent: -1.2em; }
+.potpis { margin-top: 36px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--muted); font-size: var(--step--1); }
+
+.about .prose p { font-size: 1.15rem; }
+.about h2 { font-size: var(--step-2); margin: 6px 0 20px; }
+
+.contact h2 { font-size: var(--step-2); margin: 6px 0 12px; }
+.contact p { color: var(--muted); margin: 0 0 10px; }
+.mail { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; font-family: var(--display); font-size: var(--step-1); margin: 18px 0 26px; }
+.mail span { user-select: all; word-break: break-all; }
+.mail button { font: inherit; font-family: var(--body); font-size: var(--step--1); background: none; border: 1px solid var(--line); color: var(--muted); border-radius: 999px; padding: 4px 13px; cursor: pointer; }
+.social { list-style: none; margin: 0; padding: 0; }
+.social li { border-top: 1px solid var(--line); }
+.social li:last-child { border-bottom: 1px solid var(--line); }
+.social a { display: flex; justify-content: space-between; padding: 13px 0; text-decoration: none; color: var(--ink); }
+.social a:hover { color: var(--sage-deep); }
+.social .handle { color: var(--muted); font-size: var(--step--1); }
+footer { border-top: 1px solid var(--line); font-size: var(--step--1); color: var(--muted); }
+footer .wrap { padding-block: 24px; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+
+@media (max-width: 720px) {
+  .arch img, .arch::before { border-radius: 180px 180px 4px 4px; }
+  nav ul { gap: 14px; }
+}
