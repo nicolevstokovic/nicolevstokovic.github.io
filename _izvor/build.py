@@ -15,7 +15,11 @@ from datetime import date
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from tekstovi import TEKSTOVI  # noqa: E402
+from tekstovi import TEKSTOVI as SVI_TEKSTOVI  # noqa: E402
+
+# Tekst s datumom u budućnosti ne objavljuje se na pravoj stranici dok taj dan ne dođe (u pregledu se vidi).
+PREGLED = "--pregled" in sys.argv
+TEKSTOVI = sorted([t for t in SVI_TEKSTOVI if PREGLED or date.fromisoformat(t["datum"]) <= date.today()], key=lambda t: t["datum"], reverse=True)
 
 SITE = "https://nicolevstokovic.github.io"
 IME = "Nicole Vojak Štoković"

@@ -5,6 +5,70 @@
 
 TEKSTOVI = [
     {
+        "vrsta": "crtica",
+        "datum": "2026-11-03",
+        "hr": {
+            "slug": "masline",
+            "naslov": "Masline",
+            "opis": "Crtica na čakavskom o jednom danu berbe maslina, od jutarnje rose do gorčeg ulja.",
+            "tekst": """
+Jutra nisu rana. Rabi čekati da se jutarnja rosa osuši. Svejeno se skupimo do 8 najkašnije. Gre ki je šerijo. Kante, mriže, grablje. Tresač nikako jer će ruvinati stablo!
+
+Tri auta, dvoje dice, samo jedna prikolica jer druga auta nimaju kuku. Svake godine ista priča. Trebali smo još malo čekati. Radman će biti loš. Nismo zadovoljni.
+
+Ali drugače nismo mogli dobiti godišnji. Nidan od nas. Tečemo prije i pokle dela. Po dicu, po grablje, po mrižu, po pinjate s užinon. Pa zabimo jisti, dok prven nisu ruke i kolina počela klecati.
+
+Manji je vrga maslinu u usta. Nismo snimili ča je načinija s licen, ali svi ćemo se toga sjećati. Teti se pauk spustija na glavu, pa je vikala. Do drugega maslinika su je čuli.
+
+Do podne smo u kratkima, i fali za piti. Predvečer doma gremo bez riči. Dica spidu, radio sviri. Klima u autu grije da se ki ne nazebe. Ali ruke i dalje trepe. Križa zatežu, oči na po koplja.
+
+Jene grablje smo puštili.
+
+Nisu isti ljudi brali ovega lita. A ulje je bilo gorčije nego prija.
+""",
+        },
+        "en": {
+            "slug": "olives",
+            "naslov": "Olives",
+            "opis": "A sketch about one day of the olive harvest in Istria, from the morning dew to a more bitter oil.",
+            "tekst": """
+The mornings are not early. You have to wait for the morning dew to dry. Still, we gather by eight at the latest. [GRE KI JE ŠERIJO] Buckets, nets, rakes. No shaker, never, it would ruin the tree!
+
+Three cars, two kids, only one trailer, because the other cars have no tow hook. Same story every year. We should have waited a little longer. The yield will be poor. We are not happy.
+
+But there was no other way to get the days off. Not one of us. We run around before and after work. For the kids, for the rakes, for the net, for the pots with lunch. Then we forget to eat, until the first of us feels their hands and knees begin to give.
+
+The little one put an olive in his mouth. We didn’t film the face he made, but we will all remember it. A spider dropped onto auntie’s head, and she screamed. They heard her in the next olive grove.
+
+Until noon we are in short sleeves, and there is never enough to drink. Towards evening we drive home without a word. The kids sleep, the radio plays. The heater is on in the car so nobody catches a cold. But our hands still tremble. Our backs ache, our eyes at half-mast.
+
+One rake we left untouched.
+
+They were not the same people picking this year. And the oil was more bitter than before.
+""",
+        },
+        "it": {
+            "slug": "olive",
+            "naslov": "Olive",
+            "opis": "Un bozzetto su una giornata di raccolta delle olive in Istria, dalla rugiada del mattino a un olio più amaro.",
+            "tekst": """
+Le mattine non sono presto. Bisogna aspettare che la rugiada del mattino si asciughi. Comunque ci troviamo entro le otto al più tardi. [GRE KI JE ŠERIJO] Secchi, reti, rastrelli. Niente scuotitore, mai, rovinerebbe l’albero!
+
+Tre macchine, due bambini, un solo rimorchio, perché le altre macchine non hanno il gancio. Ogni anno la stessa storia. Avremmo dovuto aspettare ancora un po’. La resa sarà scarsa. Non siamo contenti.
+
+Ma altrimenti non riuscivamo ad avere le ferie. Nessuno di noi. Corriamo prima e dopo il lavoro. A prendere i bambini, i rastrelli, la rete, le pignatte con la merenda. Poi ci dimentichiamo di mangiare, finché al primo non cominciano a cedere le mani e le ginocchia.
+
+Il piccolo si è messo un’oliva in bocca. Non abbiamo filmato la faccia che ha fatto, ma ce la ricorderemo tutti. Alla zia è sceso un ragno sulla testa e ha urlato. L’hanno sentita fino all’oliveto accanto.
+
+Fino a mezzogiorno siamo in maniche corte, e manca sempre da bere. Verso sera torniamo a casa senza una parola. I bambini dormono, la radio suona. In macchina il riscaldamento è acceso perché nessuno si raffreddi. Ma le mani tremano ancora. La schiena tira, gli occhi a mezz’asta.
+
+Un rastrello l’abbiamo lasciato stare.
+
+Quest’anno a raccogliere non c’erano le stesse persone. E l’olio era più amaro di prima.
+""",
+        },
+    },
+    {
         "vrsta": "kolumna",
         "datum": "2026-10-30",
         "hr": {
