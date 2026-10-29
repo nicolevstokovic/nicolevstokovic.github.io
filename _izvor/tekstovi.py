@@ -32,11 +32,11 @@ Nisu isti ljudi brali ovega lita. A ulje je bilo gorčije nego prija.
             "naslov": "Olives",
             "opis": "A sketch about one day of the olive harvest in Istria, from the morning dew to a more bitter oil.",
             "tekst": """
-The mornings are not the earliest. You have to wait for the morning dew to dry. Still, we gather by eight at the latest. The serious ones show up. Buckets, nets, rakes. No shaker, never, it would ruin the tree!
+The mornings don’t start early. You have to wait for the morning dew to dry. Still, we gather by eight at the latest. The serious ones show up. Buckets, nets, rakes. No shaker, never, it would ruin the tree!
 
 Three cars, two kids, only one trailer, because the other cars have no tow hook. Same story every year. We should have waited a little longer. The yield will be poor. We are not happy.
 
-But there was no other way to get the days off. For none of us. We run around before and after work. For the kids, for the rakes, for the net, for the pots with lunch. Then we forget to eat, until the first of us feels their hands and knees begin to give.
+But there was no other way to get the days off. Not for any of us. We run around before and after work. For the kids, for the rakes, for the net, for the pots with lunch. Then we forget to eat, until the first of us feels their hands and knees begin to give.
 
 The little one put an olive in his mouth. We didn’t film the face he made, but we will all remember it. A spider dropped onto auntie’s head, and she screamed. They heard her in the next olive grove.
 
