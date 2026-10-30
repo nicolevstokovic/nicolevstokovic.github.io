@@ -131,7 +131,8 @@ footer .wrap { padding-block: 24px; display: flex; justify-content: space-betwee
 
 @media (max-width: 720px) {
   .about-grid { grid-template-columns: 1fr; }
-  .portret { order: -1; position: relative; max-width: 13rem; }
+  .portret { order: -1; position: relative; top: auto; width: 12rem; max-width: 100%; }
+  .portret img { width: 12rem; height: 12rem; aspect-ratio: auto; max-width: 100%; }
   .arch img, .arch::before { border-radius: 180px 180px 4px 4px; }
   nav ul { gap: 14px; }
 }
