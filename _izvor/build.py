@@ -72,6 +72,7 @@ L = {
         "jos": "Još iz bilježnice",
         "autor_kratko": "radijska voditeljica i novinarka iz Istre.",
         "regija": "Istra, Hrvatska",
+        "prava": "Sva prava pridržana. Tekstovi se ne smiju preuzimati bez dopuštenja autorice.",
         "home_title": "Nicole Vojak Štoković – kolumne, pjesme i crtice",
         "home_desc": "Nicole Vojak Štoković, radijska voditeljica i novinarka iz Istre. Kolumne, pjesme i crtice o zdravlju, majčinstvu, mentalnom zdravlju i ljudima čije priče rijetko čujemo.",
         "job": ["Radijska voditeljica", "Novinarka"],
@@ -110,6 +111,7 @@ L = {
         "jos": "More from the notebook",
         "autor_kratko": "radio host and journalist from Istria, Croatia.",
         "regija": "Istria, Croatia",
+        "prava": "All rights reserved. The texts may not be reproduced without the author’s permission.",
         "home_title": "Nicole Vojak Štoković – columns, poems and sketches",
         "home_desc": "Nicole Vojak Štoković, radio host and journalist from Istria, Croatia. Columns, poems and sketches about health, motherhood, mental health and people whose stories we rarely hear.",
         "job": ["Radio host", "Journalist"],
@@ -148,6 +150,7 @@ L = {
         "jos": "Altro dal taccuino",
         "autor_kratko": "conduttrice radiofonica e giornalista dall’Istria, Croazia.",
         "regija": "Istria, Croazia",
+        "prava": "Tutti i diritti riservati. I testi non possono essere riprodotti senza il permesso dell’autrice.",
         "home_title": "Nicole Vojak Štoković – rubriche, poesie e bozzetti",
         "home_desc": "Nicole Vojak Štoković, conduttrice radiofonica e giornalista dall’Istria. Rubriche, poesie e bozzetti su salute, maternità, salute mentale e persone le cui storie ascoltiamo di rado.",
         "job": ["Conduttrice radiofonica", "Giornalista"],
@@ -258,7 +261,7 @@ class Gradnja:
 </header>"""
 
     def footer(self, lang):
-        return f'<footer><div class="wrap"><span>© {date.today().year} {E(IME)}</span><span>{E(L[lang]["regija"])}</span></div></footer>'
+        return f'<footer><div class="wrap"><span>© {date.today().year} {E(IME)}. {E(L[lang]["prava"])}</span><span>{E(L[lang]["regija"])}</span></div></footer>'
 
     def tijelo_teksta(self, t, lang):
         poem = t["vrsta"] == "pjesma"
