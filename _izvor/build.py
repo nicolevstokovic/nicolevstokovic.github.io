@@ -216,11 +216,12 @@ class Gradnja:
         ) + f'<link rel="alternate" hreflang="x-default" href="{SITE + alternates["hr"]}">'
         robots = '<meta name="robots" content="noindex, nofollow">' if self.pregled else ""
         # GoatCounter: privatna statistika posjeta, bez kolačića (samo na pravoj stranici)
+        gsc = "" if self.pregled else '<meta name="google-site-verification" content="_muH2Y2k9l0x7MdlpDodHRXx_d6xwvHVNLbUtfY0f2I">\n'
         stat = "" if self.pregled else '<script data-goatcounter="https://nicolevstokovic.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>\n'
 
         return f"""<title>{E(title)}</title>
 <meta name="description" content="{E(desc)}">
-{robots}<link rel="canonical" href="{url}">
+{robots}{gsc}<link rel="canonical" href="{url}">
 {alt}
 <meta property="og:site_name" content="{E(IME)}">
 <meta property="og:title" content="{E(title)}">
