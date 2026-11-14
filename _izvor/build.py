@@ -494,7 +494,12 @@ try{{navigator.clipboard.writeText(el.textContent).then(function(){{c.textConten
 
     def sitemap(self):
         rows = []
+        vidjeno = set()
         for alts in self.urls:
+            kljuc = tuple(alts[lg] for lg in JEZICI)
+            if kljuc in vidjeno:
+                continue  # svaka stranica se dodaje jednom po jeziku, ne ponavljati
+            vidjeno.add(kljuc)
             links = "".join(
                 f'<xhtml:link rel="alternate" hreflang="{lg}" href="{SITE + alts[lg]}"/>' for lg in JEZICI
             )
