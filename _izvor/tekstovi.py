@@ -5,6 +5,148 @@
 
 TEKSTOVI = [
     {
+        "vrsta": "kolumna",
+        "datum": "2026-11-17",
+        "hr": {
+            "slug": "publika-spava",
+            "naslov": "Publika spava",
+            "opis": "Priče koje pričam u eteru i one koje pričam djeci, u mraku, šapatom, uvijek iste.",
+            "tekst": """
+Pod škripi kraj police za knjige na izlazu iz sobe. Taman tamo gdje ne treba, i gdje se možeš ponadati da si se napokon izvukao. Naravno da su na polici najosjetljivije zvučne knjige koje, koliko god im puta našla novo mjesto, uvijek nađu svoj put ovdje.
+
+Kao lopov izvlačim se iz sobe u vlastitoj kući. Nekad se zapitam jesam li sve te godine vježbala baš za ovu priliku. *Relevé*, da te pod ne čuje. *Plié*, da se spustiš bez zvuka. Balans, kad ti se tlo izmiče i uvlačiš zrak da ne udahneš preglasno, i da se nitko ne probudi. Mislila sam da su sve te stvari za pozornicu, a zapravo su bile za ovo. Predstava se zove „Tri koraka od kreveta do vrata“, hvala na pažnji. Nemojte pljeskati, probudit ćete djecu!
+
+U jogi postoji položaj djeteta. Inače, opuštajući. Kod nas je to onaj u kojem oboje zaspu s rukom pod obrazom i stopalom izvan pokrivača. Jedan dio moje glave razmišlja o tome hoće li se prehladiti tako. Drugi kaže da ih ne diram i da bježim.
+
+Ali prije toga, prije nego se čuje ono duboko dječje disanje. Prije nego u kuću stigne tišina, i mir nakon hirovitog dana – ide priča. Uvijek ista, svakom svoja. Moja mala djevojčica, puna velikih želja, svake večeri želi čuti o princezi koja je imala prekrasnu haljinu i najdivnije staklene cipelice. Ubacim ja tu pokoju svoju bilješku o tome kako je princeza sama spremala svoju sobu i kasnije, kad je postala kraljica, imala svoje malo bogatstvo s kojim si je sama kupovala stvari. Da budem sigurna u neke poante. Za svaki slučaj. Moj mali dečko, uz zeku kraj potočića, sluša o dječaku kojeg je mudra gusjenica naučila hodati i pričati. Ta priča ne postoji ni u jednoj knjizi. Izmislila sam je za njega, zbog subliminalnih poruka. Vrijedilo je pokušati.
+
+I sad ni prvu ni drugu priču ne smijem promijeniti ni za jednu riječ. Svakom ide svoja, prije spavanja, svakom jedna. I pjesma, prije nego utonu u san.
+
+Znam ih napamet. Glas ide sam, kao da zna put, a oni znaju svaki zavoj i čekaju ga. Ne žele nove priče. Probala sam. Žele baš te, s udahom na istom mjestu, istim promjenama u glasu, bez prečica, jer u njima znaju da su sigurni.
+
+Negdje kod bundeve meni se u glavi slaže popis obaveza za sutra. Lista stvari koje moram prenijeti mužu, pozivi koji su ostali neodgovoreni. Neki prijatelji možda zanemareni. Dok gusjenica hrabri dječaka na prvi korak, u meni se tiho slaže prva sutrašnja emisija. Uvod, prvo pitanje, ime sugovornika i kako ga predstaviti. Razmišljam o tome koji je sutra dan, što se događa, što se obilježava, što se slavi. Tko će nam doći, koga još moram zvati, koji broj još moram pronaći i kako reći ponovno: „Dobar dan, vaša nam je priča važna!“ Jer jest.
+
+Važno je da ispričamo što u sustavu manjka, važno je da drugi čuju da je još netko imao sličnu priču, važno je da čitamo, važno je da slikamo, važno je da pišemo i da znamo da su neke nòvine ipak stigle i da će nam pomoći.
+
+Ovih dana radimo u manjem sastavu. Između studija, montaže i programa uživo, nema praznog mjesta. Ni za misliti, ni za izdahnuti. Tema ne zna koliko nas je u studiju. Ni ne treba znati. Bilježnica i kemijska su uvijek nadohvat ruke. Što više sugovornik priča, to se više otvaraju nova pitanja: *a zašto*, *a kako*?
+
+Stojim u mračnoj sobi. Taj *a zašto* dolazi na poseban popis s listom ljudi koji bi mi možda mogli na to i odgovoriti. *A kako* je uvijek najteže pitanje, i za njega treba vremena. Najskuplja valuta koju danas možemo imati. I plače, plače, zeko sad…
+
+„Kupi mi!“ – kaže moja mala djevojčica, i pjeva riječi prije mene: bicikl i romobil. Ona zna gdje smo stali, i da sam na trenutak bila negdje drugdje. Vratim se. Moj popis može čekati, u bilježnici, s kemijskom na stolu, daleko odavde. Bar zasad.
+
+*Sogni d'oro…* – šapnem i jednom i drugom dok pjevam zadnje taktove. I slušam disanje koje se produbljuje, dok smišljam taktiku izlaza, prije nego za nešto zapnem.
+
+Iza mikrofona, s druge strane zvučnika, svaki dan tražim novu priču. Nove ljude, nova imena, nova pitanja, nova vrata na koja treba pokucati. Te priče moraju biti točne, provjerene, ispričane na vrijeme. Za njih se vrijeme krade.
+
+Ovdje treba samo ista haljina, iste staklene cipelice, ista gusjenica, isti udah, isti ritam. Ovdje je dovoljno da sam ja tu.
+
+Disanje se produbi, nitko se ne probudi. Moj je položaj ratnika: jedna noga istegnuta prema pragu, druga još u sobi kraj manjeg kreveta. Brojim do deset, pa opet do deset, za svaki slučaj. *Relevé*. *Plié*. Tri koraka.
+
+Pod zaškripi.
+
+Zadržim dah. Zastanem na pola koraka, kao na pozornici kad čekaš da glazba krene dalje. Ništa. Samo dva daha, svaki u svom ritmu.
+
+Vani sam.
+
+Sutra opet palim mikrofon i pričam priče koje ljudi trebaju čuti. Ali one koje najviše želim ispričati pričam ovdje, u mraku, šaptom, uvijek iste. Najvažnije!
+
+Hvala što ste i danas bili dio moje životne predstave. Laku noć! Nemojte pljeskati, probudit ćete djecu!
+""",
+        },
+        "en": {
+            "slug": "the-audience-is-asleep",
+            "naslov": "The Audience Is Asleep",
+            "opis": "The stories I tell on air, and the ones I tell my children, in the dark, in a whisper, always the same.",
+            "tekst": """
+The floor creaks by the bookshelf on the way out of the room. Right where it shouldn’t, right where you start to hope you’ve finally made it out. And, of course, that shelf holds the loudest sound books, the ones that, however many times I find them a new place, always find their way back here.
+
+Like a thief, I sneak out of the room in my own home. Sometimes I wonder whether all those years of training were for exactly this. *Relevé*, so the floor can’t hear you. *Plié*, so you go down without a sound. Balance, when the ground shifts beneath you and you hold your breath so you don’t breathe in too loudly, so no one wakes up. I thought all of that was for the stage, but it was really for this. The show is called “Three Steps from the Bed to the Door”, thank you for your attention. Please don’t clap, you’ll wake the children!
+
+In yoga there is a pose called child’s pose. Normally, a relaxing one. In our house it’s the one they both fall asleep in, a hand under the cheek and a foot sticking out from under the blanket. One part of my head wonders whether they’ll catch a cold like that. The other tells me not to touch them and run for my life.
+
+But before that, before you hear that deep breathing of children. Before silence arrives in the house, and calm after an unpredictable day – there’s a story. Always the same, a different one for each. My little girl – *moja mala djevojčica*, *puna velikih želja* – wants to hear every night about the princess who had a beautiful dress and the loveliest glass slippers. I slip in a few notes of my own: how the princess tidied her own room, and later, when she became queen, had a little fortune of her own and bought her own things. Just to make sure certain points land. Just in case. My little boy, with the bunny by the stream, listens to a story about a boy who learned to walk and talk thanks to a wise caterpillar. That story isn’t in any book. I made it up for him, for the subliminal messages. It was worth a try.
+
+And now I can’t change a single word of either story. Each gets their own, before bed, one each. And a song, before they drift off.
+
+I know them by heart. My voice goes on its own, as if it knows the way, and they know every turn and wait for it. They don’t want new stories. I tried. They want these ones, with the same pauses for breath, the same changes in my voice, with no shortcuts, because in all of it they know they are safe.
+
+Somewhere around the pumpkin, a to-do list for tomorrow starts piling up in my head. Things I need to pass on to my husband, calls left unanswered. Some friends, maybe, neglected. While the caterpillar encourages the boy to take his first step, tomorrow’s first show quietly takes shape inside me. The intro, the first question, the guest’s name and how to introduce them. I think about what day it is tomorrow, what’s happening, what’s being marked, what’s being celebrated. Who’s coming in, who I still have to call, which number I still have to find, and how to say it once again: “Hello, your story matters to us!” Because it does.
+
+It matters that we tell what’s missing in the system, it matters that others hear someone else has had a similar story, it matters that we read, that we draw, that we write, and that we know some changes have arrived after all and will help us.
+
+These days we’re working in a smaller team. Between the studio, editing and live programming, there’s no empty space. Not to think, not to breathe out. The topic doesn’t know how many of us are in the studio. It doesn’t need to. A notebook and a pen are always within reach. The more the guest talks, the more questions open up: *but why*, *but how*?
+
+I’m standing in a dark room. That *but why* goes on a special list, along with the people who might be able to answer it. *But how* is always the hardest question, and it takes time. The most precious currency we can have today. *I plače, plače, zeko sad…*
+
+“*Kupi mi*!” says my little girl, and sings the words before I do: *bicikl i romobil* (as the lullaby goes). She knows where we left off, and that for a moment I was somewhere else. I come back. My list can wait, in the notebook, with the pen on the desk, far from here. For now, at least.
+
+*Sogni d’oro…* – I whisper to each of them as I sing the last bars. And I listen to their breathing deepen, while I plan my exit before I trip over something.
+
+Behind the microphone, on the other side of the speaker, I look for a new story every day. New people, new names, new questions, new doors to knock on. Those stories have to be accurate, checked, told on time. For them, we steal time.
+
+Here all it takes is the same dress, the same glass slippers, the same caterpillar, the same breath, the same rhythm. Here it’s enough that I’m here.
+
+Breathing deepens, no one awakens. I take the Warrior Pose: one leg stretched toward the threshold, the other still in the room, by the smaller bed. I count to ten, then to ten again, just in case. *Relevé*. *Plié*. Three steps.
+
+The floor creaks.
+
+I hold my breath. I freeze mid-step, like on stage when you wait for the music to pick up again. Nothing. Just two breaths, each in its own rhythm.
+
+I’ve made it out.
+
+Tomorrow I’ll switch on the mike again and tell the stories people ought to hear. But the stories I most want to tell are the ones I tell here, in the dark, in a whisper, always the same. The most important stories of all!
+
+Thank you for being part of my life’s performance again today. Good night! Please don’t clap, you’ll wake the children!
+""",
+        },
+        "it": {
+            "slug": "il-pubblico-dorme",
+            "naslov": "Il pubblico dorme",
+            "opis": "Le storie che racconto in onda e quelle che racconto ai miei figli, al buio, sussurrando, sempre uguali.",
+            "tekst": """
+Il pavimento scricchiola vicino allo scaffale per i libri, all’uscita della stanza. Proprio dove non dovrebbe, proprio dove cominci a sperare di avercela finalmente fatta. Naturalmente su quello scaffale ci sono i libri sonori più rumorosi, quelli che, per quante volte io trovi loro un nuovo posto, ritrovano sempre la strada fin qui.
+
+Come una ladra, sgattaiolo fuori da questa stanza di casa mia. A volte mi chiedo se tutti quegli anni di allenamento non fossero serviti proprio per questo. *Relevé*, perché il pavimento non ti senta. *Plié*, per scendere senza un suono. Equilibrio, quando il terreno ti manca sotto i piedi e trattieni l’aria per non respirare troppo forte, perché nessuno si svegli. Pensavo che tutto questo fosse per il palcoscenico, e invece era per questo. Lo spettacolo si chiama “Tre passi dal letto alla porta”, grazie per l’attenzione. Non applaudite, sveglierete i bambini!
+
+Nello yoga c’è la posizione del bambino. Di solito è rilassante. Da noi è quella in cui si addormentano entrambi, con la mano sotto la guancia e un piede fuori dalla coperta. Una parte della mia testa si chiede se prenderanno freddo così. L’altra mi dice di non toccarli e di scappare.
+
+Ma prima, prima che si senta quel respiro profondo dei bambini. Prima che in casa arrivino il silenzio e la calma dopo una giornata imprevedibile – c’è la storia. Sempre la stessa, a ciascuno la sua. La mia bambina – *moja mala djevojčica*, *puna velikih želja* – ogni sera vuole sentire della principessa che aveva un vestito bellissimo e le più incantevoli scarpette di cristallo. Ci aggiungo qualche nota mia: che la principessa riordinava la sua cameretta da sola e più tardi, quando è diventata regina, aveva un suo piccolo patrimonio con cui si comprava le cose da sola. Per essere sicura che certi concetti arrivino. Non si sa mai. Il mio bambino, con il coniglietto accanto al ruscello, ascolta la storia di un bambino a cui un bruco saggio ha insegnato a camminare e a parlare. Questa storia non esiste in nessun libro. L’ho inventata per lui, per i messaggi subliminali. Valeva la pena provarci.
+
+E adesso non posso cambiare nemmeno una parola né della prima né della seconda storia. A ciascuno la sua, prima di dormire, una a testa. E una canzone, prima che sprofondino nel sonno.
+
+Le so a memoria. La voce va da sola, come se conoscesse la strada, e loro conoscono ogni curva e l’aspettano. Non vogliono storie nuove. Ci ho provato. Vogliono proprio quelle, con le stesse pause per prendere fiato, gli stessi cambi di voce, senza scorciatoie, perché lì dentro sanno di essere al sicuro.
+
+Quando si arriva alla zucca, nella mia testa si compone la lista delle cose da fare domani. Le cose che devo dire a mio marito, le chiamate rimaste senza risposta. Qualche amico, forse, trascurato. Mentre il bruco incoraggia il bambino a fare il primo passo, dentro di me prende forma, in silenzio, la prima trasmissione di domani. L’introduzione, la prima domanda, il nome dell’ospite e come presentarlo. Penso a che giorno sarà domani, cosa succede, cosa si ricorda, cosa si festeggia. Chi verrà da noi, chi devo ancora chiamare, quale numero devo ancora trovare e come dire di nuovo: “Buongiorno, la sua storia per noi è importante!” Perché lo è.
+
+È importante raccontare cosa manca nel sistema, è importante che gli altri sentano che anche qualcun altro ha vissuto una storia simile, è importante leggere, è importante dipingere, è importante scrivere, e sapere che alcuni cambiamenti sono arrivati e che ci aiuteranno.
+
+In questi giorni lavoriamo in pochi. Tra lo studio, il montaggio e la diretta, non c’è uno spazio vuoto. Né per pensare, né per tirare il fiato. Il tema non sa quanti siamo in studio. Non ha nemmeno bisogno di saperlo. Quaderno e penna sono sempre a portata di mano. Più l’ospite parla, più si aprono nuove domande: *e perché*, *e come*?
+
+Sono in piedi nella stanza buia. Quel *e perché* finisce su una lista speciale, insieme alle persone che forse potrebbero rispondermi. *E come* è sempre la domanda più difficile, e richiede tempo. La moneta più preziosa che possiamo avere oggi. *I plače, plače, zeko sad…*
+
+“*Kupi mi*!” dice la mia bambina, e canta le parole prima di me: *bicikl i romobil* (come fa la ninna nanna). Sa dove eravamo rimasti, e che per un attimo ero altrove. Torno. La mia lista può aspettare, nel quaderno, con la penna sul tavolo, lontano da qui. Almeno per ora.
+
+*Lijepo spavaj…* – sussurro all’uno e all’altra mentre canto le ultime battute. E ascolto il respiro che si fa più profondo, mentre studio la tattica d’uscita, prima di inciampare in qualcosa.
+
+Dietro al microfono, dall’altra parte dell’altoparlante, ogni giorno cerco una storia nuova. Persone nuove, nomi nuovi, domande nuove, nuove porte a cui bussare. Quelle storie devono essere precise, verificate, raccontate in tempo. Per loro il tempo si ruba.
+
+Qui bastano lo stesso vestito, le stesse scarpette di cristallo, lo stesso bruco, lo stesso respiro, lo stesso ritmo. Qui basta che io ci sia.
+
+Il respiro si fa più profondo, nessuno si sveglia. Assumo la posizione del guerriero: una gamba tesa verso la soglia, l’altra ancora nella stanza, accanto al letto più piccolo. Conto fino a dieci, e poi ancora fino a dieci, non si sa mai. *Relevé*. *Plié*. Tre passi.
+
+Il pavimento scricchiola.
+
+Trattengo il respiro. Mi fermo a metà passo, come sul palco quando aspetti che la musica riparta. Niente. Solo due respiri, ciascuno con il suo ritmo.
+
+Sono fuori.
+
+Domani riaccendo il microfono e racconto le storie che la gente ha bisogno di sentire. Ma quelle che più desidero raccontare le racconto qui, al buio, sussurrando, sempre uguali. Le più importanti!
+
+Grazie per aver fatto parte, anche oggi, dello spettacolo della mia vita. Buonanotte! Non applaudite, sveglierete i bambini!
+""",
+        },
+    },
+    {
         "vrsta": "crtica",
         "datum": "2026-11-03",
         "hr": {
