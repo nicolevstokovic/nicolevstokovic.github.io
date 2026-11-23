@@ -70,7 +70,7 @@ Kompić prasne u smijeh i lupi ga po ramenu.
             "naslov": "Two Fingers",
             "opis": "A sketch about a Movember beard and two fingers.",
             "tekst": """
-The sun is finally out, and that means coffee outside, even if the wind cuts right through us. I sit down in a hurry, but some pleasures I just won’t give up. I’ve sunk my head into the collar of my jacket, fingers in my pockets, until the warm coffee arrives.
+The sun is finally out, and that means coffee outside, even if the wind does make us shiver. I sit down in a hurry, but some pleasures I just won’t give up. I tuck my head into the collar of my jacket, fingers in my pockets, until the warm coffee arrives.
 
 The waiter brings it quickly. He can see it’s needed. He sets it on the table and, in passing, as if by accident, runs his hand over his beard. We’ve known each other a long time, so I ask: “New?”
 
@@ -80,13 +80,13 @@ He smiles.
 
 “And how’s it going?” I ask again. He shrugs.
 
-“The first week it itches. The second it prickles.” He pauses and leans on the chair across from me. “And the third, it’s an attitude.”
+“The first week it itches. The second it prickles.” He pauses and leans on the chair across from me. “By the third, it’s become a statement.”
 
 By now it has its own oil. Its own comb. It even has a balm, but that, he says, he doesn’t tell anyone. It would be embarrassing. He shows me a photo on his phone from a month ago, then one from yesterday, then another, in profile, so you can see how thick it is.
 
-“My brother grew one too,” he adds. I didn’t ask about his brother. “But his is thin. And it’s got holes in places.” I laugh and prop my chin on my hand. “Don’t write that,” he adds quickly. Too late.
+“My brother grew one too,” he adds. I didn’t ask about his brother. “But his is thin. And there are gaps in some places.” I laugh and prop my chin on my hand. “Don’t write that,” he quickly adds. Too late.
 
-I drink my coffee. I warm my hands. He strokes his beard. He can’t help it. I’m about to ask him something else, but his buddy turns up. A beast of a car. It winks its lights at him as he walks away from it and past me. He nods hello to the waiter. A hundred handshakes, left-right, up-down, with sound effects but no words. And then he says:
+I drink my coffee. I warm my hands. He strokes his beard. He can’t help it. I’m about to ask him something else, but then his buddy turns up. A beast of a car. Its headlights wink at him as he walks away from it and past me. He nods hello to the waiter. A whole series of handshakes, left-right, up-down, complete with sound effects but not a single word. And then he says:
 
 “Whoaaa, the beard!”
 
@@ -98,23 +98,23 @@ I drink my coffee. I warm my hands. He strokes his beard. He can’t help it. I�
 
 “I caved in week two,” the buddy admits. “You’re a hero.”
 
-“It’s for a good cause, bro,” says the waiter.
+“It’s for a good cause, man,” says the waiter.
 
 The buddy sizes him up like an expert. Looks him over from the left, then from the right.
 
-“Do you even know which one?”
+“Do you even know what it’s for?”
 
-The waiter thinks. Strokes his beard, again. As if all the secrets of the world were in it.
+The waiter thinks for a moment. Strokes his beard, again. As if all the secrets of the world were in it.
 
 “Moustaches. Beards. Men. Movember.” He shrugs. “Something about health.”
 
 . . .
 
-Something about health. A month of oil, combs and a balm he doesn’t tell anyone about. It would be embarrassing. Photos in profile. A brother with holes. And health is – something.
+Something about health. A month of oil, combs and a balm he doesn’t tell anyone about. It would be embarrassing. Photos in profile. A brother with patchy growth. And health is – something.
 
 For the beard, there’s time every morning. For the other thing, we’ll see.
 
-I get up, because it’s time. I still have to settle the bill. The waiter turns to me. I raise two fingers.
+I get up, because it really is time for me to go. I still have to settle the bill. The waiter turns to me. I raise two fingers.
 
 “Two more?”
 
@@ -128,9 +128,9 @@ The buddy bursts out laughing and slaps him on the shoulder.
             "naslov": "Due dita",
             "opis": "Un bozzetto su una barba di Movember e due dita.",
             "tekst": """
-Finalmente è arrivato il sole, e questo vuol dire caffè fuori, anche se il vento ci passa da parte a parte. Mi siedo di fretta, ma a certi piaceri non so rinunciare. Ho affondato la testa nel colletto della giacca, le dita in tasca, finché non arriva il caffè caldo.
+Finalmente è arrivato il sole, e questo vuol dire caffè fuori, anche se rischiamo di prenderci un po’ di freddo. Mi siedo di fretta, ma a certi piaceri non so rinunciare. Tengo la testa affondata nel colletto della giacca, le dita in tasca, finché non arriva il caffè caldo.
 
-Il cameriere lo porta in fretta. Vede che ce n’è bisogno. Lo posa sul tavolo e, di passaggio, come per caso, si passa una mano sulla barba. Ci conosciamo da tanto, così gli chiedo: «Nuova?»
+Il cameriere lo porta subito. Capisce che ce n’è bisogno. Lo posa sul tavolo e, di passaggio, come per caso, si passa una mano sulla barba. Ci conosciamo da tanto, così gli chiedo: «Nuova?»
 
 Lui sorride.
 
@@ -138,29 +138,29 @@ Lui sorride.
 
 «E come va?» chiedo ancora. Lui alza le spalle.
 
-«La prima settimana prude. La seconda punge.» Si ferma e si appoggia alla sedia di fronte a me. «E la terza è già una presa di posizione.»
+«La prima settimana prude. La seconda punge.» Si ferma e si appoggia alla sedia di fronte a me. «Alla terza, è ormai una questione di principio.»
 
-Ormai ha il suo olio. Ha il suo pettinino. Ha anche il balsamo, ma questo, dice, non lo dice a nessuno. Sarebbe imbarazzante. Mi mostra sul telefono una foto di un mese fa, poi quella di ieri, poi un’altra ancora, di profilo, perché si veda quanto è folta.
+Ormai ha il suo olio. Ha il suo pettinino. Ha anche il balsamo, ma questo, confida, non lo dice a nessuno. Sarebbe imbarazzante. Mi mostra sul telefono una foto di un mese fa, poi quella di ieri, poi un’altra ancora, di profilo, perché si veda quanto è folta.
 
 «Anche mio fratello se l’è fatta crescere», aggiunge. Non ho chiesto del fratello. «Ma la sua è rada. E in certi punti ha dei buchi.» Rido e appoggio il mento sulla mano. «Non scriverlo», aggiunge in fretta. Troppo tardi.
 
-Bevo il caffè. Mi scaldo le mani. Lui si accarezza la barba. Non riesce a farne a meno. Sto per chiedergli qualcos’altro, ma arriva un suo amico. Un bestione di macchina. Gli fa l’occhiolino con i fari mentre lui si allontana e mi passa accanto. Saluta il cameriere con un cenno della testa. Cento strette di mano, destra-sinistra, su-giù, con tanto di effetti sonori, ma senza parole. E poi gli dice:
+Bevo il caffè. Mi scaldo le mani. Lui si accarezza la barba. Non riesce a farne a meno. Sto per chiedergli qualcos’altro, ma arriva un suo amico. Ha una macchina da bestia. Gli fa l’occhiolino con i fari mentre lui si allontana e mi passa accanto. Saluta il cameriere con un cenno della testa. Cento strette di mano, destra-sinistra, su-giù, con tanto di effetti sonori, ma senza parole. E poi gli dice:
 
 «Uaaa, la barba!»
 
-«La barba.» Distolgo lo sguardo, perché ormai è chiaro che questa sceneggiatura la sto scrivendo io.
+«La barba.» Distolgo lo sguardo, perché ormai è chiaro che questa sceneggiatura si scrive da sola.
 
-«A me prudeva, ho dovuto tagliarla», dice l’amico.
+«A me prudeva, ho dovuto rasarla», dice l’amico.
 
 «Io devo resistere ancora qualche giorno», dice il cameriere. «Fino a fine mese.»
 
-«Io ho ceduto la seconda settimana», ammette l’amico. «Tu sei un eroe.»
+«Io ho mollato la seconda settimana», ammette l’amico. «Tu sei un eroe.»
 
 «È per una buona causa, fra’», dice il cameriere.
 
 L’amico lo squadra da esperto. Lo esamina con lo sguardo da sinistra, poi da destra.
 
-«Ma tu lo sai almeno quale?»
+«Ma tu lo sai almeno per quale causa?»
 
 Il cameriere ci pensa. Si accarezza la barba, di nuovo. Come se lì dentro ci fossero tutti i segreti del mondo.
 
@@ -168,11 +168,11 @@ Il cameriere ci pensa. Si accarezza la barba, di nuovo. Come se lì dentro ci fo
 
 . . .
 
-Qualcosa per la salute. Un mese di olio, pettinini e un balsamo di cui non parla a nessuno. Sarebbe imbarazzante. Foto di profilo. Un fratello con i buchi. E la salute è – qualcosa.
+Qualcosa per la salute. Un mese di olio, pettinini e un balsamo di cui non parla a nessuno. Sarebbe imbarazzante. Foto di profilo. Un fratello con i buchi nella barba. E la salute è – qualcosa.
 
 Per la barba il tempo c’è ogni mattina. Per l’altra cosa, vedremo.
 
-Mi alzo, perché è ora. Devo ancora pagare il conto. Il cameriere si gira verso di me. Alzo due dita.
+Mi alzo, perché è tempo di andare. Devo ancora pagare il conto. Il cameriere si gira verso di me. Alzo due dita.
 
 «Altri due?»
 
