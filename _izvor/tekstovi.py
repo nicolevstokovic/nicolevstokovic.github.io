@@ -5,6 +5,184 @@
 
 TEKSTOVI = [
     {
+        "vrsta": "crtica",
+        "datum": "2026-11-24",
+        "hr": {
+            "slug": "dva-prsta",
+            "naslov": "Dva prsta",
+            "opis": "Crtica o kavi na suncu, bradi za Movember i dva prsta koja ne znače još jednu kavu.",
+            "tekst": """
+Stiglo je napokon sunce, a to znači kava vani, pa makar nas propuhalo. Sjedam u žurbi, ali nekih gušta se ne mogu odreći. Glavu sam uronila u ovratnik jakne, prste držim u džepovima, dok ne stigne topla kava.
+
+Konobar je donosi brzo. Vidi da je potrebno. Spusti je na stol i usput, kao slučajno, prođe rukom po bradi. Znamo se dugo, pa pitam: „Nova?“
+
+On se nasmije.
+
+„Movember“, kaže ponosno. „Treći tjedan.“ Impresivno, pomislim.
+
+„I kako ide?“ pitam opet. On slegne ramenima.
+
+„Prvi tjedan svrbi. Drugi bode.“ Zastane i nasloni se na stolicu preko puta mene. „A treći je već stav.“
+
+Ima za nju sad već ulje. Ima češljić. Ima i balzam, ali to, kaže, nikome ne govori. Bilo bi neugodno. Pokaže mi na mobitelu fotografiju od prije mjesec dana, pa onu od jučer, pa još jednu, iz profila, da se vidi gustoća.
+
+„Brat mi je isto pustio“, doda. Nisam pitala za brata. „Ali njegova je rijetka. I na nekim dijelovima ima rupe.“ Nasmijem se i podbočim. „Ne piši to“, doda brzo. Prekasno.
+
+Pijem kavu. Grijem ruke. On gladi bradu. Ne može si pomoć. Zaustim da ga još nešto pitam, ali dolazi mu kompić. Zvijer od auta. Auto mu namigne svjetlima dok se udaljava od njega i prolazi kraj mene. Kimne glavom u znak pozdrava konobaru. Sto rukovanja lijevo-desno, gore-dolje, uz popratne zvukove, ali bez riječi. I onda mu kaže:
+
+„Opaaa, brada!“
+
+„Brada.“ Skrenem pogled, jer sad već očito pišem ovaj scenarij.
+
+„Mene je svrbila, morao sam je skinut’“, kaže kompić.
+
+„Ja trebam zdurat još par dana“, kaže konobar. „Do kraja mjeseca.“
+
+„Ja sam pao drugi tjedan“, prizna kompić. „Ti si junak.“
+
+„Za dobru stvar, brate“, kaže konobar.
+
+Kompić ga odmjeri kao stručnjak. Obiđe ga pogledom s lijeva, pa s desna.
+
+„A znaš ti uopće koju?“
+
+Konobar se zamisli. Pogladi bradu, opet. U njoj kao da su sve tajne svijeta.
+
+„Brkovi. Brada. Muškarci. Movember.“ Slegne ramenima. „Nešto za zdravlje.“
+
+. . .
+
+Nešto za zdravlje. Mjesec dana ulja, češljića i balzama o kojem nikome ne govori. Bilo bi neugodno. Fotografije iz profila. Brat s rupama. A zdravlje je – nešto.
+
+Za bradu ima vremena svako jutro. Za ono drugo, vidjet ćemo.
+
+Ustajem, jer je već vrijeme. Račun još trebam riješiti. Konobar se okrene prema meni. Podignem dva prsta.
+
+„Još dvije?“
+
+Kompić prasne u smijeh i lupi ga po ramenu.
+
+„Ma ne, čovječe. Dva prsta. Za zdravlje.“
+""",
+        },
+        "en": {
+            "slug": "two-fingers",
+            "naslov": "Two Fingers",
+            "opis": "A sketch about coffee in the sun, a Movember beard, and two fingers that don’t mean another coffee.",
+            "tekst": """
+The sun is finally out, and that means coffee outside, even if the wind cuts right through us. I sit down in a hurry, but some pleasures I just won’t give up. I’ve sunk my head into the collar of my jacket, fingers in my pockets, until the warm coffee arrives.
+
+The waiter brings it quickly. He can see it’s needed. He sets it on the table and, in passing, as if by accident, runs his hand over his beard. We’ve known each other a long time, so I ask: “New?”
+
+He smiles.
+
+“Movember,” he says proudly. “Week three.” Impressive, I think.
+
+“And how’s it going?” I ask again. He shrugs.
+
+“The first week it itches. The second it prickles.” He pauses and leans on the chair across from me. “And the third, it’s an attitude.”
+
+By now it has its own oil. Its own comb. It even has a balm, but that, he says, he doesn’t tell anyone. It would be embarrassing. He shows me a photo on his phone from a month ago, then one from yesterday, then another, in profile, so you can see how thick it is.
+
+“My brother grew one too,” he adds. I didn’t ask about his brother. “But his is thin. And it’s got holes in places.” I laugh and prop my chin on my hand. “Don’t write that,” he adds quickly. Too late.
+
+I drink my coffee. I warm my hands. He strokes his beard. He can’t help it. I’m about to ask him something else, but his buddy turns up. A beast of a car. It winks its lights at him as he walks away from it and past me. He nods hello to the waiter. A hundred handshakes, left-right, up-down, with sound effects but no words. And then he says:
+
+“Whoaaa, the beard!”
+
+“The beard.” I look away, because by now I’m clearly writing this script.
+
+“Mine itched, I had to shave it off,” says the buddy.
+
+“I’ve got to hold out a few more days,” says the waiter. “Till the end of the month.”
+
+“I caved in week two,” the buddy admits. “You’re a hero.”
+
+“It’s for a good cause, bro,” says the waiter.
+
+The buddy sizes him up like an expert. Looks him over from the left, then from the right.
+
+“Do you even know which one?”
+
+The waiter thinks. Strokes his beard, again. As if all the secrets of the world were in it.
+
+“Moustaches. Beards. Men. Movember.” He shrugs. “Something about health.”
+
+. . .
+
+Something about health. A month of oil, combs and a balm he doesn’t tell anyone about. It would be embarrassing. Photos in profile. A brother with holes. And health is – something.
+
+For the beard, there’s time every morning. For the other thing, we’ll see.
+
+I get up, because it’s time. I still have to settle the bill. The waiter turns to me. I raise two fingers.
+
+“Two more?”
+
+The buddy bursts out laughing and slaps him on the shoulder.
+
+“No, man. Two fingers. For your health.”
+""",
+        },
+        "it": {
+            "slug": "due-dita",
+            "naslov": "Due dita",
+            "opis": "Un bozzetto su un caffè al sole, una barba di Movember e due dita che non vogliono dire un altro caffè.",
+            "tekst": """
+Finalmente è arrivato il sole, e questo vuol dire caffè fuori, anche se il vento ci passa da parte a parte. Mi siedo di fretta, ma a certi piaceri non so rinunciare. Ho affondato la testa nel colletto della giacca, le dita in tasca, finché non arriva il caffè caldo.
+
+Il cameriere lo porta in fretta. Vede che ce n’è bisogno. Lo posa sul tavolo e, di passaggio, come per caso, si passa una mano sulla barba. Ci conosciamo da tanto, così gli chiedo: «Nuova?»
+
+Lui sorride.
+
+«Movember», dice orgoglioso. «Terza settimana.» Notevole, penso.
+
+«E come va?» chiedo ancora. Lui alza le spalle.
+
+«La prima settimana prude. La seconda punge.» Si ferma e si appoggia alla sedia di fronte a me. «E la terza è già una presa di posizione.»
+
+Ormai ha il suo olio. Ha il suo pettinino. Ha anche il balsamo, ma questo, dice, non lo dice a nessuno. Sarebbe imbarazzante. Mi mostra sul telefono una foto di un mese fa, poi quella di ieri, poi un’altra ancora, di profilo, perché si veda quanto è folta.
+
+«Anche mio fratello se l’è fatta crescere», aggiunge. Non ho chiesto del fratello. «Ma la sua è rada. E in certi punti ha dei buchi.» Rido e appoggio il mento sulla mano. «Non scriverlo», aggiunge in fretta. Troppo tardi.
+
+Bevo il caffè. Mi scaldo le mani. Lui si accarezza la barba. Non riesce a farne a meno. Sto per chiedergli qualcos’altro, ma arriva un suo amico. Un bestione di macchina. Gli fa l’occhiolino con i fari mentre lui si allontana e mi passa accanto. Saluta il cameriere con un cenno della testa. Cento strette di mano, destra-sinistra, su-giù, con tanto di effetti sonori, ma senza parole. E poi gli dice:
+
+«Uaaa, la barba!»
+
+«La barba.» Distolgo lo sguardo, perché ormai è chiaro che questa sceneggiatura la sto scrivendo io.
+
+«A me prudeva, ho dovuto tagliarla», dice l’amico.
+
+«Io devo resistere ancora qualche giorno», dice il cameriere. «Fino a fine mese.»
+
+«Io ho ceduto la seconda settimana», ammette l’amico. «Tu sei un eroe.»
+
+«È per una buona causa, fra’», dice il cameriere.
+
+L’amico lo squadra da esperto. Lo esamina con lo sguardo da sinistra, poi da destra.
+
+«Ma tu lo sai almeno quale?»
+
+Il cameriere ci pensa. Si accarezza la barba, di nuovo. Come se lì dentro ci fossero tutti i segreti del mondo.
+
+«Baffi. Barba. Uomini. Movember.» Alza le spalle. «Qualcosa per la salute.»
+
+. . .
+
+Qualcosa per la salute. Un mese di olio, pettinini e un balsamo di cui non parla a nessuno. Sarebbe imbarazzante. Foto di profilo. Un fratello con i buchi. E la salute è – qualcosa.
+
+Per la barba il tempo c’è ogni mattina. Per l’altra cosa, vedremo.
+
+Mi alzo, perché è ora. Devo ancora pagare il conto. Il cameriere si gira verso di me. Alzo due dita.
+
+«Altri due?»
+
+L’amico scoppia a ridere e gli dà una pacca sulla spalla.
+
+«Ma no, dai. Due dita. Alla salute.»
+""",
+        },
+    },
+    {
         "vrsta": "kolumna",
         "datum": "2026-11-17",
         "hr": {
