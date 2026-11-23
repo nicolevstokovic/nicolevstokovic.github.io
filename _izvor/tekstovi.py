@@ -10,7 +10,7 @@ TEKSTOVI = [
         "hr": {
             "slug": "dva-prsta",
             "naslov": "Dva prsta",
-            "opis": "Crtica o kavi na suncu, bradi za Movember i dva prsta koja ne znače još jednu kavu.",
+            "opis": "Crtica o bradi za Movember i dva prsta.",
             "tekst": """
 Stiglo je napokon sunce, a to znači kava vani, pa makar nas propuhalo. Sjedam u žurbi, ali nekih gušta se ne mogu odreći. Glavu sam uronila u ovratnik jakne, prste držim u džepovima, dok ne stigne topla kava.
 
@@ -68,7 +68,7 @@ Kompić prasne u smijeh i lupi ga po ramenu.
         "en": {
             "slug": "two-fingers",
             "naslov": "Two Fingers",
-            "opis": "A sketch about coffee in the sun, a Movember beard, and two fingers that don’t mean another coffee.",
+            "opis": "A sketch about a Movember beard and two fingers.",
             "tekst": """
 The sun is finally out, and that means coffee outside, even if the wind cuts right through us. I sit down in a hurry, but some pleasures I just won’t give up. I’ve sunk my head into the collar of my jacket, fingers in my pockets, until the warm coffee arrives.
 
@@ -126,7 +126,7 @@ The buddy bursts out laughing and slaps him on the shoulder.
         "it": {
             "slug": "due-dita",
             "naslov": "Due dita",
-            "opis": "Un bozzetto su un caffè al sole, una barba di Movember e due dita che non vogliono dire un altro caffè.",
+            "opis": "Un bozzetto su una barba di Movember e due dita.",
             "tekst": """
 Finalmente è arrivato il sole, e questo vuol dire caffè fuori, anche se il vento ci passa da parte a parte. Mi siedo di fretta, ma a certi piaceri non so rinunciare. Ho affondato la testa nel colletto della giacca, le dita in tasca, finché non arriva il caffè caldo.
 
