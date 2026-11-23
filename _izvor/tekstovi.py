@@ -144,11 +144,11 @@ Ormai ha il suo olio. Ha il suo pettinino. Ha anche il balsamo, ma questo, confi
 
 «Anche mio fratello se l’è fatta crescere», aggiunge. Non ho chiesto del fratello. «Ma la sua è rada. E in certi punti ha dei buchi.» Rido e appoggio il mento sulla mano. «Non scriverlo», aggiunge in fretta. Troppo tardi.
 
-Bevo il caffè. Mi scaldo le mani. Lui si accarezza la barba. Non riesce a farne a meno. Sto per chiedergli qualcos’altro, ma arriva un suo amico. Ha una macchina da bestia. Gli fa l’occhiolino con i fari mentre lui si allontana e mi passa accanto. Saluta il cameriere con un cenno della testa. Cento strette di mano, destra-sinistra, su-giù, con tanto di effetti sonori, ma senza parole. E poi gli dice:
+Bevo il caffè. Mi scaldo le mani. Lui si accarezza la barba. Non riesce a farne a meno. Sto per chiedergli qualcos’altro, ma arriva un suo amico. Un bestione di macchina. Gli fa l’occhiolino con i fari mentre lui si allontana e mi passa accanto. Saluta il cameriere con un cenno della testa. Cento strette di mano, destra-sinistra, su-giù, con tanto di effetti sonori, ma senza parole. E poi gli dice:
 
 «Uaaa, la barba!»
 
-«La barba.» Distolgo lo sguardo, perché ormai è chiaro che questa sceneggiatura si scrive da sola.
+«La barba.» Distolgo lo sguardo, perché ormai è chiaro che questa sceneggiatura la sto scrivendo io.
 
 «A me prudeva, ho dovuto rasarla», dice l’amico.
 
